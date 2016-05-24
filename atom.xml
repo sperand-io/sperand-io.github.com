@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chris Sperandio</title>
+  <link href="http://sperand.io/atom.xml" rel="self"/>
+  <link href="http://sperand.io"/>
+  <updated>2016-05-24T16:18:59.744Z</updated>
+  <id>http://sperand.io</id>
+  <author>
+    <name>Chris Sperandio</name>
+  </author>
+  <entry>
+    <title>:sprint-green:</title>
+    <link href="http://sperand.io/-sprint-green-"/>
+    <id>http://sperand.io/-sprint-green-</id>
+    <updated>2016-05-24T00:00:00.000Z</updated>
+    <author>
+      <name>Chris Sperandio</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://emoji.slack-edge.com/T026HRLC7/tidofast/5326b735fd8700e4.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://emoji.slack-edge.com/T026HRLC7/tidofast/5326b735fd8700e4.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
